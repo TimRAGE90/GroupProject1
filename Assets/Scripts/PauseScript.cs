@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PauseScript : MonoBehaviour
 {
@@ -8,7 +9,7 @@ public class PauseScript : MonoBehaviour
 
     void Start()
     {
-        
+        pausePanel.SetActive(false);
     }
 
     void Update()
@@ -26,5 +27,17 @@ public class PauseScript : MonoBehaviour
                 pausePanel.SetActive(false);
             }
         }
+    }
+
+    public void ReturnMM()
+    {
+        Time.timeScale = 1;
+        SceneManager.LoadScene("MainMenu");
+    }
+
+    public void ExitGame()
+    {
+        Time.timeScale = 1;
+        Application.Quit();
     }
 }

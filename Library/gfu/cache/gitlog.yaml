@@ -13,25 +13,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 0001-01-01T00:00:00.000+00:00
-  initializedAtString: 0001-01-01T00:00:00.000+00:00
-  log: []
---- !u!114 &2
-MonoBehaviour:
-  m_ObjectHideFlags: 61
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  cacheType: 3
-  lastUpdatedAtString: 2021-02-03T16:12:02.689-05:00
-  initializedAtString: 2021-02-03T16:12:02.689-05:00
+  lastUpdatedAtString: 2021-02-04T18:11:50.920-05:00
+  initializedAtString: 2021-02-04T18:05:14.051-05:00
   log:
+  - commitID: e2e5a33cf95077d41840b804c855b22534201a67
+    mergeA: c0d61512b4b191a37217240efacb21a2c6eb366c
+    mergeB: 9577298acfc8d61daceb8d28578492d250c7abe8
+    authorName: csbabcock
+    authorEmail: 52185272+csbabcock@users.noreply.github.com
+    commitEmail: 52185272+csbabcock@users.noreply.github.com
+    commitName: csbabcock
+    summary: Merge branch 'main' of https://github.com/TimRAGE90/GroupProject1 into
+      main
+    description: 
+    timeString: 2021-02-03T16:20:02.000-05:00
+    commitTimeString: 2021-02-03T16:20:02.000-05:00
+    changes: []
   - commitID: c0d61512b4b191a37217240efacb21a2c6eb366c
     mergeA: 
     mergeB: 
@@ -3487,6 +3484,1182 @@ MonoBehaviour:
       projectPath: ProjectSettings\TimelineSettings.asset
       originalPath: 
       indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 9577298acfc8d61daceb8d28578492d250c7abe8
+    mergeA: 
+    mergeB: 
+    authorName: Tim
+    authorEmail: ray.timothy@knights.ucf.edu
+    commitEmail: ray.timothy@knights.ucf.edu
+    commitName: Tim
+    summary: More Tech
+    description: 
+    timeString: 2021-02-03T15:27:56.000-05:00
+    commitTimeString: 2021-02-03T15:27:56.000-05:00
+    changes:
+    - path: Assets\Animations\UI.meta
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Animations\UI.meta
+      projectPath: Assets\Animations\UI.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\UI\IntroCanvas.controller
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Animations\UI\IntroCanvas.controller
+      projectPath: Assets\Animations\UI\IntroCanvas.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\UI\IntroCanvas.controller.meta
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Animations\UI\IntroCanvas.controller.meta
+      projectPath: Assets\Animations\UI\IntroCanvas.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\UI\IntroPanel.anim
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Animations\UI\IntroPanel.anim
+      projectPath: Assets\Animations\UI\IntroPanel.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\UI\IntroPanel.anim.meta
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Animations\UI\IntroPanel.anim.meta
+      projectPath: Assets\Animations\UI\IntroPanel.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\ExitConfirmPanel.prefab
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Prefabs\ExitConfirmPanel.prefab
+      projectPath: Assets\Prefabs\ExitConfirmPanel.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\ExitConfirmPanel.prefab.meta
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Prefabs\ExitConfirmPanel.prefab.meta
+      projectPath: Assets\Prefabs\ExitConfirmPanel.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\IntroCanvas.prefab
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Prefabs\IntroCanvas.prefab
+      projectPath: Assets\Prefabs\IntroCanvas.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\IntroCanvas.prefab.meta
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Prefabs\IntroCanvas.prefab.meta
+      projectPath: Assets\Prefabs\IntroCanvas.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\PauseCanvas.prefab
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Prefabs\PauseCanvas.prefab
+      projectPath: Assets\Prefabs\PauseCanvas.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\BowserStage.unity
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Scenes\BowserStage.unity
+      projectPath: Assets\Scenes\BowserStage.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\Level1-1.unity
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Scenes\Level1-1.unity
+      projectPath: Assets\Scenes\Level1-1.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\MainMenu.unity
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Scenes\MainMenu.unity
+      projectPath: Assets\Scenes\MainMenu.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\IntroCard.cs
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Scripts\IntroCard.cs
+      projectPath: Assets\Scripts\IntroCard.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\IntroCard.cs.meta
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Scripts\IntroCard.cs.meta
+      projectPath: Assets\Scripts\IntroCard.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PauseScript.cs
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Scripts\PauseScript.cs
+      projectPath: Assets\Scripts\PauseScript.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\APIUpdater\project-dependencies.graph
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\APIUpdater\project-dependencies.graph
+      projectPath: Library\APIUpdater\project-dependencies.graph
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\03\03ff18568db89d05f111a47df76d624d
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\03\03ff18568db89d05f111a47df76d624d
+      projectPath: Library\Artifacts\03\03ff18568db89d05f111a47df76d624d
+      originalPath: Library\Artifacts\8f\8faf3ad985801557705eefe4ff572f96
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\04\040ee89481b9de35b0c53cea46a329eb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\04\040ee89481b9de35b0c53cea46a329eb
+      projectPath: Library\Artifacts\04\040ee89481b9de35b0c53cea46a329eb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\04\048bec528604f0ab0c3a31d5613e2f3a
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\04\048bec528604f0ab0c3a31d5613e2f3a
+      projectPath: Library\Artifacts\04\048bec528604f0ab0c3a31d5613e2f3a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\09\09fd3ee00b0c4ca8c7d946a0bbd337fe
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\09\09fd3ee00b0c4ca8c7d946a0bbd337fe
+      projectPath: Library\Artifacts\09\09fd3ee00b0c4ca8c7d946a0bbd337fe
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\0c\0cc9005c695d086ee421e2ca220ba3e3
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\0c\0cc9005c695d086ee421e2ca220ba3e3
+      projectPath: Library\Artifacts\0c\0cc9005c695d086ee421e2ca220ba3e3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\13\13870a34e0a2f63bbf1ea1e3dc1bb490
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\13\13870a34e0a2f63bbf1ea1e3dc1bb490
+      projectPath: Library\Artifacts\13\13870a34e0a2f63bbf1ea1e3dc1bb490
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\15\15715241278e217b3806564d2edd8db1
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\15\15715241278e217b3806564d2edd8db1
+      projectPath: Library\Artifacts\15\15715241278e217b3806564d2edd8db1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\1c\1c1bb9c9387e2b464939925b45902abd
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\1c\1c1bb9c9387e2b464939925b45902abd
+      projectPath: Library\Artifacts\1c\1c1bb9c9387e2b464939925b45902abd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\1f\1f88d3439ec947c7b629f09507e26c6b
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\1f\1f88d3439ec947c7b629f09507e26c6b
+      projectPath: Library\Artifacts\1f\1f88d3439ec947c7b629f09507e26c6b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+      projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\25\254c665f56468edd1494abd5251df174
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\25\254c665f56468edd1494abd5251df174
+      projectPath: Library\Artifacts\25\254c665f56468edd1494abd5251df174
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\31\3160f5bb893ddd91ca2d3e3014af2633
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\31\3160f5bb893ddd91ca2d3e3014af2633
+      projectPath: Library\Artifacts\31\3160f5bb893ddd91ca2d3e3014af2633
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\37\37397fb2339329978b354aae1c8f550f
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\37\37397fb2339329978b354aae1c8f550f
+      projectPath: Library\Artifacts\37\37397fb2339329978b354aae1c8f550f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\39\39a68bbbb4d5548024b32a5c21cbd5cc
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\39\39a68bbbb4d5548024b32a5c21cbd5cc
+      projectPath: Library\Artifacts\39\39a68bbbb4d5548024b32a5c21cbd5cc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\3b\3b3e552bfbcb28fb60a94c5175821a96
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\3b\3b3e552bfbcb28fb60a94c5175821a96
+      projectPath: Library\Artifacts\3b\3b3e552bfbcb28fb60a94c5175821a96
+      originalPath: Library\Artifacts\11\11375ae4d7d2861e564d69a04eb0dbae
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\41\413cb2925462a08e36c5ba5f1da9d905
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\41\413cb2925462a08e36c5ba5f1da9d905
+      projectPath: Library\Artifacts\41\413cb2925462a08e36c5ba5f1da9d905
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\43\43dea7214958c7c0008c4659b7cc476d
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\43\43dea7214958c7c0008c4659b7cc476d
+      projectPath: Library\Artifacts\43\43dea7214958c7c0008c4659b7cc476d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\47\475ed46c046e28c440042307bb323fd9
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\47\475ed46c046e28c440042307bb323fd9
+      projectPath: Library\Artifacts\47\475ed46c046e28c440042307bb323fd9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\47\4765ad9f1341583b75d467fe29f21bd9
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\47\4765ad9f1341583b75d467fe29f21bd9
+      projectPath: Library\Artifacts\47\4765ad9f1341583b75d467fe29f21bd9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\4c\4c1b7197863a02def724f475d4ecaf94
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\4c\4c1b7197863a02def724f475d4ecaf94
+      projectPath: Library\Artifacts\4c\4c1b7197863a02def724f475d4ecaf94
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\4d\4de9f88dd4bf3c1524cc656a0543e837
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\4d\4de9f88dd4bf3c1524cc656a0543e837
+      projectPath: Library\Artifacts\4d\4de9f88dd4bf3c1524cc656a0543e837
+      originalPath: Library\Artifacts\74\74cbe46dab81d9cbd636574a35588042
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\4f\4f9495e8c07c629a6ffabd192dbb4a9b
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\4f\4f9495e8c07c629a6ffabd192dbb4a9b
+      projectPath: Library\Artifacts\4f\4f9495e8c07c629a6ffabd192dbb4a9b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\54\542ba24651414032e89e68c1dbc68445
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\54\542ba24651414032e89e68c1dbc68445
+      projectPath: Library\Artifacts\54\542ba24651414032e89e68c1dbc68445
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\58\581375d440af23b09349f9ebea0097a6
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\58\581375d440af23b09349f9ebea0097a6
+      projectPath: Library\Artifacts\58\581375d440af23b09349f9ebea0097a6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\5c\5c5e2fd413462f178f5e8deacaf24833
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\5c\5c5e2fd413462f178f5e8deacaf24833
+      projectPath: Library\Artifacts\5c\5c5e2fd413462f178f5e8deacaf24833
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\64\64103789c84c167f26bc4fe5be8aa5da
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\64\64103789c84c167f26bc4fe5be8aa5da
+      projectPath: Library\Artifacts\64\64103789c84c167f26bc4fe5be8aa5da
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\6b\6b0a27c67ed5fbefaf26493cd866ad81
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\6b\6b0a27c67ed5fbefaf26493cd866ad81
+      projectPath: Library\Artifacts\6b\6b0a27c67ed5fbefaf26493cd866ad81
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\72\724f30ae406cb9693ccfb0576b9bd3f0
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\72\724f30ae406cb9693ccfb0576b9bd3f0
+      projectPath: Library\Artifacts\72\724f30ae406cb9693ccfb0576b9bd3f0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\72\7267fb6c19851356d396944084949dff
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\72\7267fb6c19851356d396944084949dff
+      projectPath: Library\Artifacts\72\7267fb6c19851356d396944084949dff
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\75\7539018007c255902073fb39ef6ca484
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\75\7539018007c255902073fb39ef6ca484
+      projectPath: Library\Artifacts\75\7539018007c255902073fb39ef6ca484
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\79\790cd3db8f741a95ddde554abbdaf336
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\79\790cd3db8f741a95ddde554abbdaf336
+      projectPath: Library\Artifacts\79\790cd3db8f741a95ddde554abbdaf336
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\83\83957b954f87bd2fdef71317305c5cf7
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\83\83957b954f87bd2fdef71317305c5cf7
+      projectPath: Library\Artifacts\83\83957b954f87bd2fdef71317305c5cf7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\86\86d64043fb50400c799467611e54f39d
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\86\86d64043fb50400c799467611e54f39d
+      projectPath: Library\Artifacts\86\86d64043fb50400c799467611e54f39d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\89\89ebe032d9037d216faea2ff1d59cf90
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\89\89ebe032d9037d216faea2ff1d59cf90
+      projectPath: Library\Artifacts\89\89ebe032d9037d216faea2ff1d59cf90
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\8f\8f3fb028fafde1061b7224a8d02df8f4
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\8f\8f3fb028fafde1061b7224a8d02df8f4
+      projectPath: Library\Artifacts\8f\8f3fb028fafde1061b7224a8d02df8f4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\8f\8f81317c161be50cf3d7d5d1001cc4d4
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\8f\8f81317c161be50cf3d7d5d1001cc4d4
+      projectPath: Library\Artifacts\8f\8f81317c161be50cf3d7d5d1001cc4d4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\95\95ab17b090eeda0af59753fe0bc8260f
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\95\95ab17b090eeda0af59753fe0bc8260f
+      projectPath: Library\Artifacts\95\95ab17b090eeda0af59753fe0bc8260f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\9a\9a5dd9fa84ff89de31ff6a9f687cd9ba
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\9a\9a5dd9fa84ff89de31ff6a9f687cd9ba
+      projectPath: Library\Artifacts\9a\9a5dd9fa84ff89de31ff6a9f687cd9ba
+      originalPath: Library\Artifacts\55\551a7e51cb68e6d90cb5742eb4156b4b
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\a1\a10445a2b2cc2498e329488c0b646556
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\a1\a10445a2b2cc2498e329488c0b646556
+      projectPath: Library\Artifacts\a1\a10445a2b2cc2498e329488c0b646556
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\a1\a1268b1a8baa6d0bc863d119889dcb40
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\a1\a1268b1a8baa6d0bc863d119889dcb40
+      projectPath: Library\Artifacts\a1\a1268b1a8baa6d0bc863d119889dcb40
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\a1\a1fed1ba6aaa8722a5061017b28b6733
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\a1\a1fed1ba6aaa8722a5061017b28b6733
+      projectPath: Library\Artifacts\a1\a1fed1ba6aaa8722a5061017b28b6733
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\a7\a76905ceea06070043b8e636e990596b
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\a7\a76905ceea06070043b8e636e990596b
+      projectPath: Library\Artifacts\a7\a76905ceea06070043b8e636e990596b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\a8\a84ed4b70197e7a94862d96c14f99c72
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\a8\a84ed4b70197e7a94862d96c14f99c72
+      projectPath: Library\Artifacts\a8\a84ed4b70197e7a94862d96c14f99c72
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\ac\acc402cdd169cb56401608d726d9a591
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\ac\acc402cdd169cb56401608d726d9a591
+      projectPath: Library\Artifacts\ac\acc402cdd169cb56401608d726d9a591
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\ad\adafdb391200e72187919d0c1e73274e
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\ad\adafdb391200e72187919d0c1e73274e
+      projectPath: Library\Artifacts\ad\adafdb391200e72187919d0c1e73274e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b2\b2ce759e54781058e9bac85e556b3088
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\b2\b2ce759e54781058e9bac85e556b3088
+      projectPath: Library\Artifacts\b2\b2ce759e54781058e9bac85e556b3088
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b7\b7a702952191233d260fb20c566498b2
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\b7\b7a702952191233d260fb20c566498b2
+      projectPath: Library\Artifacts\b7\b7a702952191233d260fb20c566498b2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b7\b7f3ee4da214b3b6e2c3508ea17ec3c8
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\b7\b7f3ee4da214b3b6e2c3508ea17ec3c8
+      projectPath: Library\Artifacts\b7\b7f3ee4da214b3b6e2c3508ea17ec3c8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b9\b93961c68bd1832a8016a2d33662186d
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\b9\b93961c68bd1832a8016a2d33662186d
+      projectPath: Library\Artifacts\b9\b93961c68bd1832a8016a2d33662186d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\ba\ba728fd17eb62bc12d0f4f4f3daf79f7
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\ba\ba728fd17eb62bc12d0f4f4f3daf79f7
+      projectPath: Library\Artifacts\ba\ba728fd17eb62bc12d0f4f4f3daf79f7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\bd\bde437ac0bf5f23c6a8b2aecd6632b83
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\bd\bde437ac0bf5f23c6a8b2aecd6632b83
+      projectPath: Library\Artifacts\bd\bde437ac0bf5f23c6a8b2aecd6632b83
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c2\c2b71c5a919942f7e828cb7ed260717f
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\c2\c2b71c5a919942f7e828cb7ed260717f
+      projectPath: Library\Artifacts\c2\c2b71c5a919942f7e828cb7ed260717f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c3\c3f847096c8310f270e467fcf0008cdd
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\c3\c3f847096c8310f270e467fcf0008cdd
+      projectPath: Library\Artifacts\c3\c3f847096c8310f270e467fcf0008cdd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\ca\cac3138fdf9964fb50bad5a7a5a253fe
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\ca\cac3138fdf9964fb50bad5a7a5a253fe
+      projectPath: Library\Artifacts\ca\cac3138fdf9964fb50bad5a7a5a253fe
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\d1\d182e79ee3a401fe8a3949960bf0c56c
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\d1\d182e79ee3a401fe8a3949960bf0c56c
+      projectPath: Library\Artifacts\d1\d182e79ee3a401fe8a3949960bf0c56c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\e0\e0a57b650da02c9a3fe41dd9de4c4f73
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\e0\e0a57b650da02c9a3fe41dd9de4c4f73
+      projectPath: Library\Artifacts\e0\e0a57b650da02c9a3fe41dd9de4c4f73
+      originalPath: Library\Artifacts\80\80351627425a3da46ccb1e653d28c940
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\e7\e734736ed85cfeff6ef4dd2408ef9de7
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\e7\e734736ed85cfeff6ef4dd2408ef9de7
+      projectPath: Library\Artifacts\e7\e734736ed85cfeff6ef4dd2408ef9de7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\f2\f25b534250de08558e57e0fa4d3f8c16
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\f2\f25b534250de08558e57e0fa4d3f8c16
+      projectPath: Library\Artifacts\f2\f25b534250de08558e57e0fa4d3f8c16
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\fb\fb2919844144ed4a2feafdce0f65c2d6
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\fb\fb2919844144ed4a2feafdce0f65c2d6
+      projectPath: Library\Artifacts\fb\fb2919844144ed4a2feafdce0f65c2d6
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PackageManager\ProjectCache.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\PackageManager\ProjectCache.bin
+      projectPath: Library\PackageManager\ProjectCache.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SceneVisibilityState.asset
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\PsdPlugin.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\PsdPlugin.dll
+      projectPath: Library\ScriptAssemblies\PsdPlugin.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\PsdPlugin.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\PsdPlugin.pdb
+      projectPath: Library\ScriptAssemblies\PsdPlugin.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Animation.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Animation.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+      projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
+      projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+      projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
+      projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Mathematics.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Mathematics.dll
+      projectPath: Library\ScriptAssemblies\Unity.Mathematics.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Mathematics.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Mathematics.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Mathematics.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Timeline.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ShaderCache\0\0271ace0c9f1c17cffac92b8f32fcc5b.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\0\0271ace0c9f1c17cffac92b8f32fcc5b.bin
+      projectPath: Library\ShaderCache\0\0271ace0c9f1c17cffac92b8f32fcc5b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\0\08f023fa9b5856bc9f85192194c52394.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\0\08f023fa9b5856bc9f85192194c52394.bin
+      projectPath: Library\ShaderCache\0\08f023fa9b5856bc9f85192194c52394.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\0\0dd59d96d384bbb59fe9c70537043d39.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\0\0dd59d96d384bbb59fe9c70537043d39.bin
+      projectPath: Library\ShaderCache\0\0dd59d96d384bbb59fe9c70537043d39.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\0\0df03fb166e94c3b7e9013bceffa0a44.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\0\0df03fb166e94c3b7e9013bceffa0a44.bin
+      projectPath: Library\ShaderCache\0\0df03fb166e94c3b7e9013bceffa0a44.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\1\1a36e5363fa994f7384172b5dd6d80dd.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\1\1a36e5363fa994f7384172b5dd6d80dd.bin
+      projectPath: Library\ShaderCache\1\1a36e5363fa994f7384172b5dd6d80dd.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\1\1cde0cc749351b135a5558d6a701e82c.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\1\1cde0cc749351b135a5558d6a701e82c.bin
+      projectPath: Library\ShaderCache\1\1cde0cc749351b135a5558d6a701e82c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\1\1f18c68743c6686d0ec08239705814ac.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\1\1f18c68743c6686d0ec08239705814ac.bin
+      projectPath: Library\ShaderCache\1\1f18c68743c6686d0ec08239705814ac.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\2\201b79c87d660c82ef1fe7c8c45556d2.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\2\201b79c87d660c82ef1fe7c8c45556d2.bin
+      projectPath: Library\ShaderCache\2\201b79c87d660c82ef1fe7c8c45556d2.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\4\48b897de8c4f240a2db0882a7c00094e.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\4\48b897de8c4f240a2db0882a7c00094e.bin
+      projectPath: Library\ShaderCache\4\48b897de8c4f240a2db0882a7c00094e.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\4\4a648195feac6bc7e736e5ca80089145.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\4\4a648195feac6bc7e736e5ca80089145.bin
+      projectPath: Library\ShaderCache\4\4a648195feac6bc7e736e5ca80089145.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\4\4d3f0db47cdfd74000930caa7078f8e2.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\4\4d3f0db47cdfd74000930caa7078f8e2.bin
+      projectPath: Library\ShaderCache\4\4d3f0db47cdfd74000930caa7078f8e2.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\4\4e1b7700125bfb42e26e08067bb57af5.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\4\4e1b7700125bfb42e26e08067bb57af5.bin
+      projectPath: Library\ShaderCache\4\4e1b7700125bfb42e26e08067bb57af5.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\5\504bd1bbd317d7a07cdd313651cd362b.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\5\504bd1bbd317d7a07cdd313651cd362b.bin
+      projectPath: Library\ShaderCache\5\504bd1bbd317d7a07cdd313651cd362b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\5\5a7e0092608fa35d82e35c5b5caf049f.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\5\5a7e0092608fa35d82e35c5b5caf049f.bin
+      projectPath: Library\ShaderCache\5\5a7e0092608fa35d82e35c5b5caf049f.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\5\5cf2d54832f5e62ed80131c4ff588c7a.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\5\5cf2d54832f5e62ed80131c4ff588c7a.bin
+      projectPath: Library\ShaderCache\5\5cf2d54832f5e62ed80131c4ff588c7a.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\6\600d02fa14982ee82e3c03031fa21c42.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\6\600d02fa14982ee82e3c03031fa21c42.bin
+      projectPath: Library\ShaderCache\6\600d02fa14982ee82e3c03031fa21c42.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\6\6f0268cd99fe5752fd11a297a90ffd1c.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\6\6f0268cd99fe5752fd11a297a90ffd1c.bin
+      projectPath: Library\ShaderCache\6\6f0268cd99fe5752fd11a297a90ffd1c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\7\71392639d1e9ce1f05252b939374a96b.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\7\71392639d1e9ce1f05252b939374a96b.bin
+      projectPath: Library\ShaderCache\7\71392639d1e9ce1f05252b939374a96b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\8\8d298eb46c12d9e5e3ba896e4d3e01fd.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\8\8d298eb46c12d9e5e3ba896e4d3e01fd.bin
+      projectPath: Library\ShaderCache\8\8d298eb46c12d9e5e3ba896e4d3e01fd.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\8\8eeb636f01e256c75415004919c568ca.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\8\8eeb636f01e256c75415004919c568ca.bin
+      projectPath: Library\ShaderCache\8\8eeb636f01e256c75415004919c568ca.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\EditorEncounteredVariants
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\EditorEncounteredVariants
+      projectPath: Library\ShaderCache\EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ShaderCache\a\a0dc3f26e7527f785eff43df49004cee.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\a\a0dc3f26e7527f785eff43df49004cee.bin
+      projectPath: Library\ShaderCache\a\a0dc3f26e7527f785eff43df49004cee.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\a\a0e45f54421b9dc10459d501a743b12b.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\a\a0e45f54421b9dc10459d501a743b12b.bin
+      projectPath: Library\ShaderCache\a\a0e45f54421b9dc10459d501a743b12b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\a\a9f77bc0ef71e3f6e8df3ad561eeef28.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\a\a9f77bc0ef71e3f6e8df3ad561eeef28.bin
+      projectPath: Library\ShaderCache\a\a9f77bc0ef71e3f6e8df3ad561eeef28.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\b\b40b1f9490f9927ff4bbb4c79d5b49a8.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\b\b40b1f9490f9927ff4bbb4c79d5b49a8.bin
+      projectPath: Library\ShaderCache\b\b40b1f9490f9927ff4bbb4c79d5b49a8.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\b\bbdc7d9860d062ccf1247c8c208f8143.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\b\bbdc7d9860d062ccf1247c8c208f8143.bin
+      projectPath: Library\ShaderCache\b\bbdc7d9860d062ccf1247c8c208f8143.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\c\c1d5c806b06fe2ab2299e6290136f442.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\c\c1d5c806b06fe2ab2299e6290136f442.bin
+      projectPath: Library\ShaderCache\c\c1d5c806b06fe2ab2299e6290136f442.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\c\c9c1d6188c3c3c86ce40c41ab762b9f5.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\c\c9c1d6188c3c3c86ce40c41ab762b9f5.bin
+      projectPath: Library\ShaderCache\c\c9c1d6188c3c3c86ce40c41ab762b9f5.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\c\ccc4c2b647ddbe49bbe5aa8589416658.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\c\ccc4c2b647ddbe49bbe5aa8589416658.bin
+      projectPath: Library\ShaderCache\c\ccc4c2b647ddbe49bbe5aa8589416658.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\d\d0788d3c63251da82c6ca0731e00d989.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\d\d0788d3c63251da82c6ca0731e00d989.bin
+      projectPath: Library\ShaderCache\d\d0788d3c63251da82c6ca0731e00d989.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\d\d129dd113d807771786c8c4793483e2b.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\d\d129dd113d807771786c8c4793483e2b.bin
+      projectPath: Library\ShaderCache\d\d129dd113d807771786c8c4793483e2b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\d\d94dd2aa9192b10baed42293f7fdf7ea.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\d\d94dd2aa9192b10baed42293f7fdf7ea.bin
+      projectPath: Library\ShaderCache\d\d94dd2aa9192b10baed42293f7fdf7ea.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\d\decdf70dab6f8f0f68c49fd8417a295c.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\d\decdf70dab6f8f0f68c49fd8417a295c.bin
+      projectPath: Library\ShaderCache\d\decdf70dab6f8f0f68c49fd8417a295c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\d\df869e00fad8fda80fdd1459513d53cc.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\d\df869e00fad8fda80fdd1459513d53cc.bin
+      projectPath: Library\ShaderCache\d\df869e00fad8fda80fdd1459513d53cc.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\e\ea2e3e10f05da8ea58776b1a032d120b.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\e\ea2e3e10f05da8ea58776b1a032d120b.bin
+      projectPath: Library\ShaderCache\e\ea2e3e10f05da8ea58776b1a032d120b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\f\f833064a57b2b99c94e75cd95be9e9bf.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\f\f833064a57b2b99c94e75cd95be9e9bf.bin
+      projectPath: Library\ShaderCache\f\f833064a57b2b99c94e75cd95be9e9bf.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\f\fb6fda37cb6401608c71aa0e8bd18e15.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\f\fb6fda37cb6401608c71aa0e8bd18e15.bin
+      projectPath: Library\ShaderCache\f\fb6fda37cb6401608c71aa0e8bd18e15.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\f\fbafc9f9d8d07d911e08aee5e4831563.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\f\fbafc9f9d8d07d911e08aee5e4831563.bin
+      projectPath: Library\ShaderCache\f\fbafc9f9d8d07d911e08aee5e4831563.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\f\fff0f4c07e81d1d1206e983f11c0eaf3.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\f\fff0f4c07e81d1d1206e983f11c0eaf3.bin
+      projectPath: Library\ShaderCache\f\fff0f4c07e81d1d1206e983f11c0eaf3.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\PrefabStageHierarchy\f1\f113f703115d5d4c1a25697c04f21ae0.json
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\StateCache\PrefabStageHierarchy\f1\f113f703115d5d4c1a25697c04f21ae0.json
+      projectPath: Library\StateCache\PrefabStageHierarchy\f1\f113f703115d5d4c1a25697c04f21ae0.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+      projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\ac\ac3501949bf905874d579999fb8a7b4d.json
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\StateCache\SceneView\ac\ac3501949bf905874d579999fb8a7b4d.json
+      projectPath: Library\StateCache\SceneView\ac\ac3501949bf905874d579999fb8a7b4d.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\shadercompiler-UnityShaderCompiler.exe5.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\shadercompiler-UnityShaderCompiler.exe6.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\shadercompiler-UnityShaderCompiler.exe7.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      originalPath: 
+      indexStatus: 3
       workTreeStatus: 0
   - commitID: c24a0a8f31bd55298845edc58f4e0afcf8f952cb
     mergeA: 

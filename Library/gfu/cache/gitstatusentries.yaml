@@ -13,105 +13,105 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-02-03T16:15:22.877-05:00
-  initializedAtString: 2021-02-03T16:12:01.907-05:00
+  lastUpdatedAtString: 2021-02-04T18:11:45.974-05:00
+  initializedAtString: 2021-02-04T18:05:07.124-05:00
   entries:
   - path: Assets\Animations\UI.meta
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Animations\UI.meta
     projectPath: Assets\Animations\UI.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Animations\UI\IntroCanvas.controller
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Animations\UI\IntroCanvas.controller
     projectPath: Assets\Animations\UI\IntroCanvas.controller
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Animations\UI\IntroCanvas.controller.meta
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Animations\UI\IntroCanvas.controller.meta
     projectPath: Assets\Animations\UI\IntroCanvas.controller.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Animations\UI\IntroPanel.anim
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Animations\UI\IntroPanel.anim
     projectPath: Assets\Animations\UI\IntroPanel.anim
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Animations\UI\IntroPanel.anim.meta
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Animations\UI\IntroPanel.anim.meta
     projectPath: Assets\Animations\UI\IntroPanel.anim.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Prefabs\ExitConfirmPanel.prefab
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Prefabs\ExitConfirmPanel.prefab
     projectPath: Assets\Prefabs\ExitConfirmPanel.prefab
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Prefabs\ExitConfirmPanel.prefab.meta
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Prefabs\ExitConfirmPanel.prefab.meta
     projectPath: Assets\Prefabs\ExitConfirmPanel.prefab.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Prefabs\IntroCanvas.prefab
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Prefabs\IntroCanvas.prefab
     projectPath: Assets\Prefabs\IntroCanvas.prefab
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Prefabs\IntroCanvas.prefab.meta
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Prefabs\IntroCanvas.prefab.meta
     projectPath: Assets\Prefabs\IntroCanvas.prefab.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Prefabs\PauseCanvas.prefab
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Prefabs\PauseCanvas.prefab
     projectPath: Assets\Prefabs\PauseCanvas.prefab
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scenes\BowserStage.unity
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Scenes\BowserStage.unity
     projectPath: Assets\Scenes\BowserStage.unity
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scenes\Level1-1.unity
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Scenes\Level1-1.unity
     projectPath: Assets\Scenes\Level1-1.unity
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scenes\MainMenu.unity
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Scenes\MainMenu.unity
     projectPath: Assets\Scenes\MainMenu.unity
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scripts\IntroCard.cs
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Scripts\IntroCard.cs
     projectPath: Assets\Scripts\IntroCard.cs
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Scripts\IntroCard.cs.meta
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Scripts\IntroCard.cs.meta
     projectPath: Assets\Scripts\IntroCard.cs.meta
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Scripts\PauseScript.cs
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Scripts\PauseScript.cs
     projectPath: Assets\Scripts\PauseScript.cs
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\APIUpdater\project-dependencies.graph
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\APIUpdater\project-dependencies.graph
     projectPath: Library\APIUpdater\project-dependencies.graph
@@ -124,1011 +124,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\01\01f152889bf118264a8c64af8362b255
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\01\01f152889bf118264a8c64af8362b255
-    projectPath: Library\Artifacts\01\01f152889bf118264a8c64af8362b255
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\02\028a29140cd67e0b5177b9e1d5c04070
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\02\028a29140cd67e0b5177b9e1d5c04070
-    projectPath: Library\Artifacts\02\028a29140cd67e0b5177b9e1d5c04070
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\03\030a5e8a156984c9fffa5cc6b85cdb18
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\03\030a5e8a156984c9fffa5cc6b85cdb18
-    projectPath: Library\Artifacts\03\030a5e8a156984c9fffa5cc6b85cdb18
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\03\034765ba85c909b4eeb487e946f383a5
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\03\034765ba85c909b4eeb487e946f383a5
-    projectPath: Library\Artifacts\03\034765ba85c909b4eeb487e946f383a5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\03\03ff18568db89d05f111a47df76d624d
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\03\03ff18568db89d05f111a47df76d624d
-    projectPath: Library\Artifacts\03\03ff18568db89d05f111a47df76d624d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\06\06c477de679e3b86b494527d8242d63f
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\06\06c477de679e3b86b494527d8242d63f
-    projectPath: Library\Artifacts\06\06c477de679e3b86b494527d8242d63f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\06\06fc94c7d193de9267836a78253170bd
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\06\06fc94c7d193de9267836a78253170bd
-    projectPath: Library\Artifacts\06\06fc94c7d193de9267836a78253170bd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\08\085909f758929555bca19d0c914bf6d0
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\08\085909f758929555bca19d0c914bf6d0
-    projectPath: Library\Artifacts\08\085909f758929555bca19d0c914bf6d0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\0a\0a8f9f1566752c1bfb453ec5c5d44eda
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\0a\0a8f9f1566752c1bfb453ec5c5d44eda
-    projectPath: Library\Artifacts\0a\0a8f9f1566752c1bfb453ec5c5d44eda
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\0c\0c8605f963e4692fc729567ed3a69fc1
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\0c\0c8605f963e4692fc729567ed3a69fc1
-    projectPath: Library\Artifacts\0c\0c8605f963e4692fc729567ed3a69fc1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\0e\0ee6978ea7416eea68e6a4a9758aaf63
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\0e\0ee6978ea7416eea68e6a4a9758aaf63
-    projectPath: Library\Artifacts\0e\0ee6978ea7416eea68e6a4a9758aaf63
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\0f\0f2064075455c1b7f655ed7450781dba
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\0f\0f2064075455c1b7f655ed7450781dba
-    projectPath: Library\Artifacts\0f\0f2064075455c1b7f655ed7450781dba
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\0f\0f9e7d31f60e8b0e8ca1a7b5d46ace04
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\0f\0f9e7d31f60e8b0e8ca1a7b5d46ace04
-    projectPath: Library\Artifacts\0f\0f9e7d31f60e8b0e8ca1a7b5d46ace04
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\Artifacts\11\11375ae4d7d2861e564d69a04eb0dbae
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\11\11375ae4d7d2861e564d69a04eb0dbae
     projectPath: Library\Artifacts\11\11375ae4d7d2861e564d69a04eb0dbae
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Library\Artifacts\11\115463b1813e70c541f528970553647d
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\11\115463b1813e70c541f528970553647d
-    projectPath: Library\Artifacts\11\115463b1813e70c541f528970553647d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\15\153f06f5e4dadb5f477b6aeb89bafb8b
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\15\153f06f5e4dadb5f477b6aeb89bafb8b
-    projectPath: Library\Artifacts\15\153f06f5e4dadb5f477b6aeb89bafb8b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\15\15715241278e217b3806564d2edd8db1
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\15\15715241278e217b3806564d2edd8db1
-    projectPath: Library\Artifacts\15\15715241278e217b3806564d2edd8db1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\16\16e21823b14a6f6d5a8513f03e4d90c9
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\16\16e21823b14a6f6d5a8513f03e4d90c9
-    projectPath: Library\Artifacts\16\16e21823b14a6f6d5a8513f03e4d90c9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\1b\1beb12dd07440e4c126b369cd6fb48f3
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\1b\1beb12dd07440e4c126b369cd6fb48f3
-    projectPath: Library\Artifacts\1b\1beb12dd07440e4c126b369cd6fb48f3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1c\1c1bb9c9387e2b464939925b45902abd
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\1c\1c1bb9c9387e2b464939925b45902abd
-    projectPath: Library\Artifacts\1c\1c1bb9c9387e2b464939925b45902abd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1c\1c7da321c15679ddacf52ef8759199af
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\1c\1c7da321c15679ddacf52ef8759199af
-    projectPath: Library\Artifacts\1c\1c7da321c15679ddacf52ef8759199af
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\1f\1f88d3439ec947c7b629f09507e26c6b
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\1f\1f88d3439ec947c7b629f09507e26c6b
-    projectPath: Library\Artifacts\1f\1f88d3439ec947c7b629f09507e26c6b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1f\1fb5e778fe43289cca0167509a77f541
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\1f\1fb5e778fe43289cca0167509a77f541
-    projectPath: Library\Artifacts\1f\1fb5e778fe43289cca0167509a77f541
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\25\254c665f56468edd1494abd5251df174
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\25\254c665f56468edd1494abd5251df174
-    projectPath: Library\Artifacts\25\254c665f56468edd1494abd5251df174
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\28\289a81f78ce3b40fa58452cb2d8681a4
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\28\289a81f78ce3b40fa58452cb2d8681a4
-    projectPath: Library\Artifacts\28\289a81f78ce3b40fa58452cb2d8681a4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\2c\2cff6f6d2a1b418389a9f9e5e0101cbe
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\2c\2cff6f6d2a1b418389a9f9e5e0101cbe
-    projectPath: Library\Artifacts\2c\2cff6f6d2a1b418389a9f9e5e0101cbe
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\30\30f72f8ad8c6bad26850d8cfc7aa375c
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\30\30f72f8ad8c6bad26850d8cfc7aa375c
-    projectPath: Library\Artifacts\30\30f72f8ad8c6bad26850d8cfc7aa375c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\31\3160f5bb893ddd91ca2d3e3014af2633
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\31\3160f5bb893ddd91ca2d3e3014af2633
-    projectPath: Library\Artifacts\31\3160f5bb893ddd91ca2d3e3014af2633
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\32\328ec8d16932ec9066413933a2f32c8e
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\32\328ec8d16932ec9066413933a2f32c8e
-    projectPath: Library\Artifacts\32\328ec8d16932ec9066413933a2f32c8e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\37\37397fb2339329978b354aae1c8f550f
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\37\37397fb2339329978b354aae1c8f550f
-    projectPath: Library\Artifacts\37\37397fb2339329978b354aae1c8f550f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\37\3742afb6afe24333c7b9c050350c3fd0
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\37\3742afb6afe24333c7b9c050350c3fd0
-    projectPath: Library\Artifacts\37\3742afb6afe24333c7b9c050350c3fd0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\38\38f535e61ad1a1d34c7fdece1b9d1aed
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\38\38f535e61ad1a1d34c7fdece1b9d1aed
-    projectPath: Library\Artifacts\38\38f535e61ad1a1d34c7fdece1b9d1aed
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\39\39120b752a5a129b91feefb2448ba129
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\39\39120b752a5a129b91feefb2448ba129
-    projectPath: Library\Artifacts\39\39120b752a5a129b91feefb2448ba129
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\39\398636280ed94f5b0eec3c0b54ba8cc9
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\39\398636280ed94f5b0eec3c0b54ba8cc9
-    projectPath: Library\Artifacts\39\398636280ed94f5b0eec3c0b54ba8cc9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\39\39a68bbbb4d5548024b32a5c21cbd5cc
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\39\39a68bbbb4d5548024b32a5c21cbd5cc
-    projectPath: Library\Artifacts\39\39a68bbbb4d5548024b32a5c21cbd5cc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\39\39d581715f448c69fa30bb0cf4b4c4bd
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\39\39d581715f448c69fa30bb0cf4b4c4bd
-    projectPath: Library\Artifacts\39\39d581715f448c69fa30bb0cf4b4c4bd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3a\3af9f2d4f10d1213002a631ec0430a9f
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\3a\3af9f2d4f10d1213002a631ec0430a9f
-    projectPath: Library\Artifacts\3a\3af9f2d4f10d1213002a631ec0430a9f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\3b\3b3e552bfbcb28fb60a94c5175821a96
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\3b\3b3e552bfbcb28fb60a94c5175821a96
-    projectPath: Library\Artifacts\3b\3b3e552bfbcb28fb60a94c5175821a96
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3e\3e1f05810071a9a6bde07cca560c7556
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\3e\3e1f05810071a9a6bde07cca560c7556
-    projectPath: Library\Artifacts\3e\3e1f05810071a9a6bde07cca560c7556
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\3e\3ed33aac69b35ec7dd17a42fb63291e7
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\3e\3ed33aac69b35ec7dd17a42fb63291e7
-    projectPath: Library\Artifacts\3e\3ed33aac69b35ec7dd17a42fb63291e7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3f\3ff45d54595cee955d7d3a1e41cce1b1
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\3f\3ff45d54595cee955d7d3a1e41cce1b1
-    projectPath: Library\Artifacts\3f\3ff45d54595cee955d7d3a1e41cce1b1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\41\413cb2925462a08e36c5ba5f1da9d905
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\41\413cb2925462a08e36c5ba5f1da9d905
-    projectPath: Library\Artifacts\41\413cb2925462a08e36c5ba5f1da9d905
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\41\41ada1e8ebe272be7bfa583c1ecf5d1d
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\41\41ada1e8ebe272be7bfa583c1ecf5d1d
-    projectPath: Library\Artifacts\41\41ada1e8ebe272be7bfa583c1ecf5d1d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\42\42686e1aa9d33cbbb2e120bd71214a54
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\42\42686e1aa9d33cbbb2e120bd71214a54
-    projectPath: Library\Artifacts\42\42686e1aa9d33cbbb2e120bd71214a54
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\43\43dea7214958c7c0008c4659b7cc476d
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\43\43dea7214958c7c0008c4659b7cc476d
-    projectPath: Library\Artifacts\43\43dea7214958c7c0008c4659b7cc476d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\45\450ef79dcd5ae3785d84ca289b966dfd
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\45\450ef79dcd5ae3785d84ca289b966dfd
-    projectPath: Library\Artifacts\45\450ef79dcd5ae3785d84ca289b966dfd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\45\451e96a32be06b452127f25da4948f7a
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\45\451e96a32be06b452127f25da4948f7a
-    projectPath: Library\Artifacts\45\451e96a32be06b452127f25da4948f7a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\46\4622d68cf1cd907c01ad96f3e3d89136
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\46\4622d68cf1cd907c01ad96f3e3d89136
-    projectPath: Library\Artifacts\46\4622d68cf1cd907c01ad96f3e3d89136
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\47\4765ad9f1341583b75d467fe29f21bd9
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\47\4765ad9f1341583b75d467fe29f21bd9
-    projectPath: Library\Artifacts\47\4765ad9f1341583b75d467fe29f21bd9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\4a\4a70d447060e0f1ee8a8119c7b98935d
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\4a\4a70d447060e0f1ee8a8119c7b98935d
-    projectPath: Library\Artifacts\4a\4a70d447060e0f1ee8a8119c7b98935d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\4c\4c1b7197863a02def724f475d4ecaf94
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\4c\4c1b7197863a02def724f475d4ecaf94
-    projectPath: Library\Artifacts\4c\4c1b7197863a02def724f475d4ecaf94
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\4d\4d59b6f3510b5fdef2ba21f3b2890f03
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\4d\4d59b6f3510b5fdef2ba21f3b2890f03
-    projectPath: Library\Artifacts\4d\4d59b6f3510b5fdef2ba21f3b2890f03
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\4d\4de9f88dd4bf3c1524cc656a0543e837
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\4d\4de9f88dd4bf3c1524cc656a0543e837
-    projectPath: Library\Artifacts\4d\4de9f88dd4bf3c1524cc656a0543e837
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\50\5005adea422a54fe44a486a15412d1c0
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\50\5005adea422a54fe44a486a15412d1c0
-    projectPath: Library\Artifacts\50\5005adea422a54fe44a486a15412d1c0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\54\542ba24651414032e89e68c1dbc68445
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\54\542ba24651414032e89e68c1dbc68445
-    projectPath: Library\Artifacts\54\542ba24651414032e89e68c1dbc68445
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\55\55880822172f4b998487949642494c37
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\55\55880822172f4b998487949642494c37
-    projectPath: Library\Artifacts\55\55880822172f4b998487949642494c37
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\55\558e5a766619d6108a511e8973db6803
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\55\558e5a766619d6108a511e8973db6803
-    projectPath: Library\Artifacts\55\558e5a766619d6108a511e8973db6803
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\55\55c5bd7d79f59375dd2f90351440c96b
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\55\55c5bd7d79f59375dd2f90351440c96b
-    projectPath: Library\Artifacts\55\55c5bd7d79f59375dd2f90351440c96b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\56\56a48596dbec8d6e9434d9acb7de618f
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\56\56a48596dbec8d6e9434d9acb7de618f
-    projectPath: Library\Artifacts\56\56a48596dbec8d6e9434d9acb7de618f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\57\57f0376618f51e4f9b48b9581bad4b8c
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\57\57f0376618f51e4f9b48b9581bad4b8c
-    projectPath: Library\Artifacts\57\57f0376618f51e4f9b48b9581bad4b8c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\5c\5c5e2fd413462f178f5e8deacaf24833
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\5c\5c5e2fd413462f178f5e8deacaf24833
-    projectPath: Library\Artifacts\5c\5c5e2fd413462f178f5e8deacaf24833
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\64\641c808cf10df6366c20d20fd073844c
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\64\641c808cf10df6366c20d20fd073844c
-    projectPath: Library\Artifacts\64\641c808cf10df6366c20d20fd073844c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\66\66dd8a59a2010859bffb93c62575c458
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\66\66dd8a59a2010859bffb93c62575c458
-    projectPath: Library\Artifacts\66\66dd8a59a2010859bffb93c62575c458
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\69\6950b9868f349a47ee2448092576f037
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\69\6950b9868f349a47ee2448092576f037
-    projectPath: Library\Artifacts\69\6950b9868f349a47ee2448092576f037
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\6b\6b0a27c67ed5fbefaf26493cd866ad81
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\6b\6b0a27c67ed5fbefaf26493cd866ad81
-    projectPath: Library\Artifacts\6b\6b0a27c67ed5fbefaf26493cd866ad81
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\6f\6f073e5d9967e6a6b02ce3e0e6f5d129
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\6f\6f073e5d9967e6a6b02ce3e0e6f5d129
-    projectPath: Library\Artifacts\6f\6f073e5d9967e6a6b02ce3e0e6f5d129
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\72\720c56ec1518a55a9fe6e57843c3bb23
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\72\720c56ec1518a55a9fe6e57843c3bb23
-    projectPath: Library\Artifacts\72\720c56ec1518a55a9fe6e57843c3bb23
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\72\7267fb6c19851356d396944084949dff
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\72\7267fb6c19851356d396944084949dff
-    projectPath: Library\Artifacts\72\7267fb6c19851356d396944084949dff
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\73\732717cee9f7cdb64cd5d8ece59b0dae
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\73\732717cee9f7cdb64cd5d8ece59b0dae
-    projectPath: Library\Artifacts\73\732717cee9f7cdb64cd5d8ece59b0dae
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\73\73aae8634dd816ae18f7d5a9c01ab43d
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\73\73aae8634dd816ae18f7d5a9c01ab43d
-    projectPath: Library\Artifacts\73\73aae8634dd816ae18f7d5a9c01ab43d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\75\755cefcb83150d7199f87c703275fcf4
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\75\755cefcb83150d7199f87c703275fcf4
-    projectPath: Library\Artifacts\75\755cefcb83150d7199f87c703275fcf4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\77\7762466919094ad1d94f0c1c8a95b239
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\77\7762466919094ad1d94f0c1c8a95b239
-    projectPath: Library\Artifacts\77\7762466919094ad1d94f0c1c8a95b239
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\77\7787f26158582f6bf2ca2b3cea0c4d9f
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\77\7787f26158582f6bf2ca2b3cea0c4d9f
-    projectPath: Library\Artifacts\77\7787f26158582f6bf2ca2b3cea0c4d9f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\78\78568dbbf28dc8a1e9c9ad125206c291
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\78\78568dbbf28dc8a1e9c9ad125206c291
-    projectPath: Library\Artifacts\78\78568dbbf28dc8a1e9c9ad125206c291
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\78\78b15c587ce6af6f85e06200267190ee
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\78\78b15c587ce6af6f85e06200267190ee
-    projectPath: Library\Artifacts\78\78b15c587ce6af6f85e06200267190ee
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\79\790cd3db8f741a95ddde554abbdaf336
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\79\790cd3db8f741a95ddde554abbdaf336
-    projectPath: Library\Artifacts\79\790cd3db8f741a95ddde554abbdaf336
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\7a\7a263cb6e1ef4f123e498129b7848d4b
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\7a\7a263cb6e1ef4f123e498129b7848d4b
-    projectPath: Library\Artifacts\7a\7a263cb6e1ef4f123e498129b7848d4b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\7a\7aad49f96075441c7f6d4ca088a97d0b
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\7a\7aad49f96075441c7f6d4ca088a97d0b
-    projectPath: Library\Artifacts\7a\7aad49f96075441c7f6d4ca088a97d0b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\7a\7ae097e4989f728873dc957f6b2b3a35
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\7a\7ae097e4989f728873dc957f6b2b3a35
-    projectPath: Library\Artifacts\7a\7ae097e4989f728873dc957f6b2b3a35
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\7b\7b87011c3fc83c3470cfe1782ac97153
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\7b\7b87011c3fc83c3470cfe1782ac97153
-    projectPath: Library\Artifacts\7b\7b87011c3fc83c3470cfe1782ac97153
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\7b\7bd20cccdc86b80d7262634165edb371
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\7b\7bd20cccdc86b80d7262634165edb371
-    projectPath: Library\Artifacts\7b\7bd20cccdc86b80d7262634165edb371
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\7d\7d6987b78e1e547c92800d18dcebec1c
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\7d\7d6987b78e1e547c92800d18dcebec1c
-    projectPath: Library\Artifacts\7d\7d6987b78e1e547c92800d18dcebec1c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\80\802ebbf0c737da5e88da1dcb2a73b32c
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\80\802ebbf0c737da5e88da1dcb2a73b32c
-    projectPath: Library\Artifacts\80\802ebbf0c737da5e88da1dcb2a73b32c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\81\811685e899c1c5c1b163240ee15ba78c
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\81\811685e899c1c5c1b163240ee15ba78c
-    projectPath: Library\Artifacts\81\811685e899c1c5c1b163240ee15ba78c
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 9
-  - path: Library\Artifacts\82\82bd174edcc59f61d7da002bf80fc86c
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\82\82bd174edcc59f61d7da002bf80fc86c
-    projectPath: Library\Artifacts\82\82bd174edcc59f61d7da002bf80fc86c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\82\82e58800b570df36bbfa1da22488a680
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\82\82e58800b570df36bbfa1da22488a680
-    projectPath: Library\Artifacts\82\82e58800b570df36bbfa1da22488a680
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\83\8361e78016bd4dbac67c2867fb81c551
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\83\8361e78016bd4dbac67c2867fb81c551
-    projectPath: Library\Artifacts\83\8361e78016bd4dbac67c2867fb81c551
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\83\83957b954f87bd2fdef71317305c5cf7
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\83\83957b954f87bd2fdef71317305c5cf7
-    projectPath: Library\Artifacts\83\83957b954f87bd2fdef71317305c5cf7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\84\84eef89686eb360319dfd235235901f3
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\84\84eef89686eb360319dfd235235901f3
-    projectPath: Library\Artifacts\84\84eef89686eb360319dfd235235901f3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\86\86d64043fb50400c799467611e54f39d
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\86\86d64043fb50400c799467611e54f39d
-    projectPath: Library\Artifacts\86\86d64043fb50400c799467611e54f39d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\87\87e427f2e6bc38684739c38b583fb896
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\87\87e427f2e6bc38684739c38b583fb896
-    projectPath: Library\Artifacts\87\87e427f2e6bc38684739c38b583fb896
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\89\89ebe032d9037d216faea2ff1d59cf90
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\89\89ebe032d9037d216faea2ff1d59cf90
-    projectPath: Library\Artifacts\89\89ebe032d9037d216faea2ff1d59cf90
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8a\8a4d8fc8320bfbe9fca314b66748cc22
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\8a\8a4d8fc8320bfbe9fca314b66748cc22
-    projectPath: Library\Artifacts\8a\8a4d8fc8320bfbe9fca314b66748cc22
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8f\8f3fb028fafde1061b7224a8d02df8f4
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\8f\8f3fb028fafde1061b7224a8d02df8f4
-    projectPath: Library\Artifacts\8f\8f3fb028fafde1061b7224a8d02df8f4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8f\8f81317c161be50cf3d7d5d1001cc4d4
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\8f\8f81317c161be50cf3d7d5d1001cc4d4
-    projectPath: Library\Artifacts\8f\8f81317c161be50cf3d7d5d1001cc4d4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8f\8faf3ad985801557705eefe4ff572f96
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\8f\8faf3ad985801557705eefe4ff572f96
-    projectPath: Library\Artifacts\8f\8faf3ad985801557705eefe4ff572f96
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 5
-  - path: Library\Artifacts\93\93f074c4df7b57b3182b92d5f5d1ae2d
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\93\93f074c4df7b57b3182b92d5f5d1ae2d
-    projectPath: Library\Artifacts\93\93f074c4df7b57b3182b92d5f5d1ae2d
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 9
-  - path: Library\Artifacts\95\95ab17b090eeda0af59753fe0bc8260f
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\95\95ab17b090eeda0af59753fe0bc8260f
-    projectPath: Library\Artifacts\95\95ab17b090eeda0af59753fe0bc8260f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\97\97d7535dccb96bbf95ff56a8e1337eea
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\97\97d7535dccb96bbf95ff56a8e1337eea
-    projectPath: Library\Artifacts\97\97d7535dccb96bbf95ff56a8e1337eea
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\9a\9a5dd9fa84ff89de31ff6a9f687cd9ba
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\9a\9a5dd9fa84ff89de31ff6a9f687cd9ba
-    projectPath: Library\Artifacts\9a\9a5dd9fa84ff89de31ff6a9f687cd9ba
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\9c\9c45fdb2fa25ef577eb1646a72dbf613
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\9c\9c45fdb2fa25ef577eb1646a72dbf613
-    projectPath: Library\Artifacts\9c\9c45fdb2fa25ef577eb1646a72dbf613
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\9d\9d7581b51c282ee57e37109f5f3ce576
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\9d\9d7581b51c282ee57e37109f5f3ce576
-    projectPath: Library\Artifacts\9d\9d7581b51c282ee57e37109f5f3ce576
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\9d\9dba1610e83b45fbf09dd923e7bb2031
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\9d\9dba1610e83b45fbf09dd923e7bb2031
-    projectPath: Library\Artifacts\9d\9dba1610e83b45fbf09dd923e7bb2031
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\9e\9eed0f30134bc93e839ba04f9a229c04
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\9e\9eed0f30134bc93e839ba04f9a229c04
-    projectPath: Library\Artifacts\9e\9eed0f30134bc93e839ba04f9a229c04
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\9f\9fa4bc852d74c3000a70e769e11395b8
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\9f\9fa4bc852d74c3000a70e769e11395b8
-    projectPath: Library\Artifacts\9f\9fa4bc852d74c3000a70e769e11395b8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a1\a10445a2b2cc2498e329488c0b646556
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\a1\a10445a2b2cc2498e329488c0b646556
-    projectPath: Library\Artifacts\a1\a10445a2b2cc2498e329488c0b646556
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a1\a1268b1a8baa6d0bc863d119889dcb40
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\a1\a1268b1a8baa6d0bc863d119889dcb40
-    projectPath: Library\Artifacts\a1\a1268b1a8baa6d0bc863d119889dcb40
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a1\a1fed1ba6aaa8722a5061017b28b6733
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\a1\a1fed1ba6aaa8722a5061017b28b6733
-    projectPath: Library\Artifacts\a1\a1fed1ba6aaa8722a5061017b28b6733
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a2\a2176ddaeef6cebb39ed3468175ff527
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\a2\a2176ddaeef6cebb39ed3468175ff527
-    projectPath: Library\Artifacts\a2\a2176ddaeef6cebb39ed3468175ff527
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a4\a49194827445a75d77cfb3e4d200e752
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\a4\a49194827445a75d77cfb3e4d200e752
-    projectPath: Library\Artifacts\a4\a49194827445a75d77cfb3e4d200e752
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a5\a5a4791498c71781120fa1aed4ca25c9
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\a5\a5a4791498c71781120fa1aed4ca25c9
-    projectPath: Library\Artifacts\a5\a5a4791498c71781120fa1aed4ca25c9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a7\a7678ee40237040b93586609d754886f
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\a7\a7678ee40237040b93586609d754886f
-    projectPath: Library\Artifacts\a7\a7678ee40237040b93586609d754886f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a7\a76905ceea06070043b8e636e990596b
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\a7\a76905ceea06070043b8e636e990596b
-    projectPath: Library\Artifacts\a7\a76905ceea06070043b8e636e990596b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\aa\aa56e30f49eaea313d902610015cba5e
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\aa\aa56e30f49eaea313d902610015cba5e
-    projectPath: Library\Artifacts\aa\aa56e30f49eaea313d902610015cba5e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\aa\aac344ee65e83a344e42f026d9863292
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\aa\aac344ee65e83a344e42f026d9863292
-    projectPath: Library\Artifacts\aa\aac344ee65e83a344e42f026d9863292
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ab\abea9ce8c82146237c56bfeb9dfe9574
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\ab\abea9ce8c82146237c56bfeb9dfe9574
-    projectPath: Library\Artifacts\ab\abea9ce8c82146237c56bfeb9dfe9574
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 9
-  - path: Library\Artifacts\ac\acc402cdd169cb56401608d726d9a591
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\ac\acc402cdd169cb56401608d726d9a591
-    projectPath: Library\Artifacts\ac\acc402cdd169cb56401608d726d9a591
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ad\adafdb391200e72187919d0c1e73274e
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\ad\adafdb391200e72187919d0c1e73274e
-    projectPath: Library\Artifacts\ad\adafdb391200e72187919d0c1e73274e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b0\b0eb24351f1216c96e1f1bbca1a1ba2b
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\b0\b0eb24351f1216c96e1f1bbca1a1ba2b
-    projectPath: Library\Artifacts\b0\b0eb24351f1216c96e1f1bbca1a1ba2b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b2\b2ce759e54781058e9bac85e556b3088
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\b2\b2ce759e54781058e9bac85e556b3088
-    projectPath: Library\Artifacts\b2\b2ce759e54781058e9bac85e556b3088
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b7\b7225716f45f6b2e431e89b35eb1e1f9
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\b7\b7225716f45f6b2e431e89b35eb1e1f9
-    projectPath: Library\Artifacts\b7\b7225716f45f6b2e431e89b35eb1e1f9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\b7\b7a702952191233d260fb20c566498b2
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\b7\b7a702952191233d260fb20c566498b2
-    projectPath: Library\Artifacts\b7\b7a702952191233d260fb20c566498b2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b7\b7f3ee4da214b3b6e2c3508ea17ec3c8
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\b7\b7f3ee4da214b3b6e2c3508ea17ec3c8
-    projectPath: Library\Artifacts\b7\b7f3ee4da214b3b6e2c3508ea17ec3c8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b9\b93961c68bd1832a8016a2d33662186d
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\b9\b93961c68bd1832a8016a2d33662186d
-    projectPath: Library\Artifacts\b9\b93961c68bd1832a8016a2d33662186d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b9\b9c3c901909110628a7595067bea894b
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\b9\b9c3c901909110628a7595067bea894b
-    projectPath: Library\Artifacts\b9\b9c3c901909110628a7595067bea894b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ba\ba728fd17eb62bc12d0f4f4f3daf79f7
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\ba\ba728fd17eb62bc12d0f4f4f3daf79f7
-    projectPath: Library\Artifacts\ba\ba728fd17eb62bc12d0f4f4f3daf79f7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\bd\bd55b4bff99b8a5c0e02aa2667a0678d
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\bd\bd55b4bff99b8a5c0e02aa2667a0678d
-    projectPath: Library\Artifacts\bd\bd55b4bff99b8a5c0e02aa2667a0678d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\bd\bdd730ace12538f776d161c102b22483
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\bd\bdd730ace12538f776d161c102b22483
-    projectPath: Library\Artifacts\bd\bdd730ace12538f776d161c102b22483
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\bd\bde437ac0bf5f23c6a8b2aecd6632b83
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\bd\bde437ac0bf5f23c6a8b2aecd6632b83
-    projectPath: Library\Artifacts\bd\bde437ac0bf5f23c6a8b2aecd6632b83
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\be\be685f494ea6a5f10a04a727071118df
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\be\be685f494ea6a5f10a04a727071118df
-    projectPath: Library\Artifacts\be\be685f494ea6a5f10a04a727071118df
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c0\c0564c3a94c5f0a6cf9e3c4f3c481a57
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\c0\c0564c3a94c5f0a6cf9e3c4f3c481a57
-    projectPath: Library\Artifacts\c0\c0564c3a94c5f0a6cf9e3c4f3c481a57
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c2\c2b71c5a919942f7e828cb7ed260717f
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\c2\c2b71c5a919942f7e828cb7ed260717f
-    projectPath: Library\Artifacts\c2\c2b71c5a919942f7e828cb7ed260717f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c3\c30194c57fdba57ca3fe54d7dd54db68
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\c3\c30194c57fdba57ca3fe54d7dd54db68
-    projectPath: Library\Artifacts\c3\c30194c57fdba57ca3fe54d7dd54db68
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c3\c31f06fe7d967680c2f2b18e4e945c09
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\c3\c31f06fe7d967680c2f2b18e4e945c09
-    projectPath: Library\Artifacts\c3\c31f06fe7d967680c2f2b18e4e945c09
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c3\c3670d2f8ad41505c8ede38bc808b6f5
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\c3\c3670d2f8ad41505c8ede38bc808b6f5
-    projectPath: Library\Artifacts\c3\c3670d2f8ad41505c8ede38bc808b6f5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c3\c3f847096c8310f270e467fcf0008cdd
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\c3\c3f847096c8310f270e467fcf0008cdd
-    projectPath: Library\Artifacts\c3\c3f847096c8310f270e467fcf0008cdd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c4\c44f3e722bae3580daafc63a3a0edd21
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\c4\c44f3e722bae3580daafc63a3a0edd21
-    projectPath: Library\Artifacts\c4\c44f3e722bae3580daafc63a3a0edd21
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c6\c60f4243504d14759cd16fa990818ec4
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\c6\c60f4243504d14759cd16fa990818ec4
-    projectPath: Library\Artifacts\c6\c60f4243504d14759cd16fa990818ec4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c8\c8df9b5fd3e7bb0e349d4cc790cc2aa4
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\c8\c8df9b5fd3e7bb0e349d4cc790cc2aa4
-    projectPath: Library\Artifacts\c8\c8df9b5fd3e7bb0e349d4cc790cc2aa4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ca\cac3138fdf9964fb50bad5a7a5a253fe
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\ca\cac3138fdf9964fb50bad5a7a5a253fe
-    projectPath: Library\Artifacts\ca\cac3138fdf9964fb50bad5a7a5a253fe
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\cb\cbe1f6efc1cc8d60996b462f848c68b7
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\cb\cbe1f6efc1cc8d60996b462f848c68b7
-    projectPath: Library\Artifacts\cb\cbe1f6efc1cc8d60996b462f848c68b7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d1\d11b14df6fd87439d480edc7b6dc2914
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\d1\d11b14df6fd87439d480edc7b6dc2914
-    projectPath: Library\Artifacts\d1\d11b14df6fd87439d480edc7b6dc2914
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d1\d182e79ee3a401fe8a3949960bf0c56c
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\d1\d182e79ee3a401fe8a3949960bf0c56c
-    projectPath: Library\Artifacts\d1\d182e79ee3a401fe8a3949960bf0c56c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d2\d2483957072bc32945a5c2f0e153198b
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\d2\d2483957072bc32945a5c2f0e153198b
-    projectPath: Library\Artifacts\d2\d2483957072bc32945a5c2f0e153198b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\dc\dc79ae8acd6d7c804407cb2986e51fb2
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\dc\dc79ae8acd6d7c804407cb2986e51fb2
-    projectPath: Library\Artifacts\dc\dc79ae8acd6d7c804407cb2986e51fb2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\dd\ddce8e3355f6375ef385a59ffb8685a6
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\dd\ddce8e3355f6375ef385a59ffb8685a6
-    projectPath: Library\Artifacts\dd\ddce8e3355f6375ef385a59ffb8685a6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\de\dea2e77f84388f20a00c4d4c335f2afc
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\de\dea2e77f84388f20a00c4d4c335f2afc
-    projectPath: Library\Artifacts\de\dea2e77f84388f20a00c4d4c335f2afc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\de\dedffe165160b7c270c79ca1aeeb5b45
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\de\dedffe165160b7c270c79ca1aeeb5b45
-    projectPath: Library\Artifacts\de\dedffe165160b7c270c79ca1aeeb5b45
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\df\df3e2f2382d05114f735092f6fcfae62
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\df\df3e2f2382d05114f735092f6fcfae62
-    projectPath: Library\Artifacts\df\df3e2f2382d05114f735092f6fcfae62
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 9
-  - path: Library\Artifacts\e0\e03ef6f995865231413e3a94f556c669
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\e0\e03ef6f995865231413e3a94f556c669
-    projectPath: Library\Artifacts\e0\e03ef6f995865231413e3a94f556c669
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e0\e0a57b650da02c9a3fe41dd9de4c4f73
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\e0\e0a57b650da02c9a3fe41dd9de4c4f73
-    projectPath: Library\Artifacts\e0\e0a57b650da02c9a3fe41dd9de4c4f73
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 4
-  - path: Library\Artifacts\e2\e21a133b06d25672f864276a496183d5
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\e2\e21a133b06d25672f864276a496183d5
-    projectPath: Library\Artifacts\e2\e21a133b06d25672f864276a496183d5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e2\e2e948a8c77e155fc05bf60113966a63
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\e2\e2e948a8c77e155fc05bf60113966a63
-    projectPath: Library\Artifacts\e2\e2e948a8c77e155fc05bf60113966a63
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e3\e3357e30adb4144e68de2ad72b0c5649
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\e3\e3357e30adb4144e68de2ad72b0c5649
-    projectPath: Library\Artifacts\e3\e3357e30adb4144e68de2ad72b0c5649
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e4\e43f6309908db565de4be17223607019
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\e4\e43f6309908db565de4be17223607019
-    projectPath: Library\Artifacts\e4\e43f6309908db565de4be17223607019
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e5\e513b94e99ca57dd24d4d8616b1ae75c
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\e5\e513b94e99ca57dd24d4d8616b1ae75c
-    projectPath: Library\Artifacts\e5\e513b94e99ca57dd24d4d8616b1ae75c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e6\e6334dbb8bb6f012422db7d403b398af
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\e6\e6334dbb8bb6f012422db7d403b398af
-    projectPath: Library\Artifacts\e6\e6334dbb8bb6f012422db7d403b398af
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e7\e734736ed85cfeff6ef4dd2408ef9de7
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\e7\e734736ed85cfeff6ef4dd2408ef9de7
-    projectPath: Library\Artifacts\e7\e734736ed85cfeff6ef4dd2408ef9de7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e8\e88efda58dc106518992d5ac70e6a143
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\e8\e88efda58dc106518992d5ac70e6a143
-    projectPath: Library\Artifacts\e8\e88efda58dc106518992d5ac70e6a143
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ee\eed8fd034339257bc0e21f738731bd9b
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\ee\eed8fd034339257bc0e21f738731bd9b
-    projectPath: Library\Artifacts\ee\eed8fd034339257bc0e21f738731bd9b
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 9
-  - path: Library\Artifacts\ef\efac92defbaccfe95cbb39f0f7802bd3
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\ef\efac92defbaccfe95cbb39f0f7802bd3
-    projectPath: Library\Artifacts\ef\efac92defbaccfe95cbb39f0f7802bd3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f0\f0029894a4f3a8dae284e85e90e5a3e4
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\f0\f0029894a4f3a8dae284e85e90e5a3e4
-    projectPath: Library\Artifacts\f0\f0029894a4f3a8dae284e85e90e5a3e4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f0\f0c06a4e3103914c1f647b6debb44f2c
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\f0\f0c06a4e3103914c1f647b6debb44f2c
-    projectPath: Library\Artifacts\f0\f0c06a4e3103914c1f647b6debb44f2c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f0\f0c73f933a479ce00f542f9c47add5bb
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\f0\f0c73f933a479ce00f542f9c47add5bb
-    projectPath: Library\Artifacts\f0\f0c73f933a479ce00f542f9c47add5bb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f0\f0d0c60b93fd13c566b4c8006a8a9559
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\f0\f0d0c60b93fd13c566b4c8006a8a9559
-    projectPath: Library\Artifacts\f0\f0d0c60b93fd13c566b4c8006a8a9559
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f2\f2495642501254dd450696f53e817668
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\f2\f2495642501254dd450696f53e817668
-    projectPath: Library\Artifacts\f2\f2495642501254dd450696f53e817668
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f2\f25b534250de08558e57e0fa4d3f8c16
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\f2\f25b534250de08558e57e0fa4d3f8c16
-    projectPath: Library\Artifacts\f2\f25b534250de08558e57e0fa4d3f8c16
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ff\fffea3a7cae5006d385ed9b5425539a1
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\ff\fffea3a7cae5006d385ed9b5425539a1
-    projectPath: Library\Artifacts\ff\fffea3a7cae5006d385ed9b5425539a1
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -1136,47 +134,35 @@ MonoBehaviour:
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\CurrentLayout-default.dwlt
     projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\EditorInstance.json
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 4
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 4
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlog.yaml
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\gfu\cache\gitlog.yaml
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 4
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 4
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 4
-  - path: Library\gfu\cache\gituser.yaml
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -1184,416 +170,320 @@ MonoBehaviour:
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 4
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\PackageManager\ProjectCache.bin
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\PackageManager\ProjectCache.bin
     projectPath: Library\PackageManager\ProjectCache.bin
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 4
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 4
-  - path: Library\ScriptAssemblies\PsdPlugin.dll
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\PsdPlugin.dll
-    projectPath: Library\ScriptAssemblies\PsdPlugin.dll
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: Library\ScriptAssemblies\PsdPlugin.pdb
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\PsdPlugin.pdb
-    projectPath: Library\ScriptAssemblies\PsdPlugin.pdb
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: Library\ScriptAssemblies\Unity.2D.Animation.Editor.pdb
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Animation.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.pdb
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.pdb
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.pdb
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.pdb
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
     projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
     projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
     projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
     projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
     projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
     projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Mathematics.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Mathematics.dll
     projectPath: Library\ScriptAssemblies\Unity.Mathematics.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Mathematics.pdb
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Mathematics.pdb
     projectPath: Library\ScriptAssemblies\Unity.Mathematics.pdb
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Rider.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.TextMeshPro.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Timeline.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Timeline.dll
     projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Timeline.pdb
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Timeline.pdb
     projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
     projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.UI.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\UnityEditor.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
     projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.UI.dll
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\UnityEngine.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ShaderCache\EditorEncounteredVariants
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\shadercompiler-UnityShaderCompiler.exe4.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\shadercompiler-UnityShaderCompiler.exe5.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\shadercompiler-UnityShaderCompiler.exe6.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
-  - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\shadercompiler-UnityShaderCompiler.exe7.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SourceAssetDB
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\StateCache\MainStageHierarchy\a8\a840eb12ce55cc111b37c7213d372f15.json
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\StateCache\MainStageHierarchy\a8\a840eb12ce55cc111b37c7213d372f15.json
     projectPath: Library\StateCache\MainStageHierarchy\a8\a840eb12ce55cc111b37c7213d372f15.json
@@ -1612,12 +502,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    originalPath: 
-    indexStatus: 9
-    workTreeStatus: 9
   - path: Library\StateCache\SceneView\ac\ac3501949bf905874d579999fb8a7b4d.json
     fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\StateCache\SceneView\ac\ac3501949bf905874d579999fb8a7b4d.json
     projectPath: Library\StateCache\SceneView\ac\ac3501949bf905874d579999fb8a7b4d.json
@@ -1636,201 +520,201 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-0aa18030a727980499bec2890f8bf62f
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-0aa18030a727980499bec2890f8bf62f
-    projectPath: Temp\UnityTempFile-0aa18030a727980499bec2890f8bf62f
+  - path: Temp\UnityTempFile-022b6a96c45d3474cb75f0ef41c3503a
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-022b6a96c45d3474cb75f0ef41c3503a
+    projectPath: Temp\UnityTempFile-022b6a96c45d3474cb75f0ef41c3503a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-11ec2bc50a12ac04cbf4b3d3b65f7281
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-11ec2bc50a12ac04cbf4b3d3b65f7281
-    projectPath: Temp\UnityTempFile-11ec2bc50a12ac04cbf4b3d3b65f7281
+  - path: Temp\UnityTempFile-03645ae06fa9a0548a469198be077ca9
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-03645ae06fa9a0548a469198be077ca9
+    projectPath: Temp\UnityTempFile-03645ae06fa9a0548a469198be077ca9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-17d9637f1ab4f5d41a5b4420a8f71ab3
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-17d9637f1ab4f5d41a5b4420a8f71ab3
-    projectPath: Temp\UnityTempFile-17d9637f1ab4f5d41a5b4420a8f71ab3
+  - path: Temp\UnityTempFile-090004687dce5274eaf36193751593a8
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-090004687dce5274eaf36193751593a8
+    projectPath: Temp\UnityTempFile-090004687dce5274eaf36193751593a8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-24a875f0fe8838f4988206c5ba95f75a
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-24a875f0fe8838f4988206c5ba95f75a
-    projectPath: Temp\UnityTempFile-24a875f0fe8838f4988206c5ba95f75a
+  - path: Temp\UnityTempFile-11a06c3c161051640ac6246f9ae75270
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-11a06c3c161051640ac6246f9ae75270
+    projectPath: Temp\UnityTempFile-11a06c3c161051640ac6246f9ae75270
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-273d206d86c5fd746aa1b7feccdb67a4
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-273d206d86c5fd746aa1b7feccdb67a4
-    projectPath: Temp\UnityTempFile-273d206d86c5fd746aa1b7feccdb67a4
+  - path: Temp\UnityTempFile-162fd28c98c551046b1b3407201db03e
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-162fd28c98c551046b1b3407201db03e
+    projectPath: Temp\UnityTempFile-162fd28c98c551046b1b3407201db03e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-2afb99f49ed5d2746ba8db53e1f1bb85
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-2afb99f49ed5d2746ba8db53e1f1bb85
-    projectPath: Temp\UnityTempFile-2afb99f49ed5d2746ba8db53e1f1bb85
+  - path: Temp\UnityTempFile-2f42bcc487b167d41a91a320fce57449
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-2f42bcc487b167d41a91a320fce57449
+    projectPath: Temp\UnityTempFile-2f42bcc487b167d41a91a320fce57449
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-2b8a0e3ce857e204f97ef9fbadb8ecdb
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-2b8a0e3ce857e204f97ef9fbadb8ecdb
-    projectPath: Temp\UnityTempFile-2b8a0e3ce857e204f97ef9fbadb8ecdb
+  - path: Temp\UnityTempFile-39f94bc6d69518c46b6e58d65f73198f
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-39f94bc6d69518c46b6e58d65f73198f
+    projectPath: Temp\UnityTempFile-39f94bc6d69518c46b6e58d65f73198f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-3f5130cb73b788947b303fc887474efa
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-3f5130cb73b788947b303fc887474efa
-    projectPath: Temp\UnityTempFile-3f5130cb73b788947b303fc887474efa
+  - path: Temp\UnityTempFile-3a10605b3f048524cb33903fff3c0462
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-3a10605b3f048524cb33903fff3c0462
+    projectPath: Temp\UnityTempFile-3a10605b3f048524cb33903fff3c0462
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-447cac8514feb164b876e90f6c1c0b1d
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-447cac8514feb164b876e90f6c1c0b1d
-    projectPath: Temp\UnityTempFile-447cac8514feb164b876e90f6c1c0b1d
+  - path: Temp\UnityTempFile-3aed30ab8d3c12642a7059b2fe11d95f
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-3aed30ab8d3c12642a7059b2fe11d95f
+    projectPath: Temp\UnityTempFile-3aed30ab8d3c12642a7059b2fe11d95f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-4d1fdd4eeefa0934c82f358b7782373e
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-4d1fdd4eeefa0934c82f358b7782373e
-    projectPath: Temp\UnityTempFile-4d1fdd4eeefa0934c82f358b7782373e
+  - path: Temp\UnityTempFile-4aac8eb805b985b4ea04cf340451004b
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-4aac8eb805b985b4ea04cf340451004b
+    projectPath: Temp\UnityTempFile-4aac8eb805b985b4ea04cf340451004b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-4f48717407754c94b86568918506d615
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-4f48717407754c94b86568918506d615
-    projectPath: Temp\UnityTempFile-4f48717407754c94b86568918506d615
+  - path: Temp\UnityTempFile-5209bc2ec277e334cbaa51a6f1573140
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-5209bc2ec277e334cbaa51a6f1573140
+    projectPath: Temp\UnityTempFile-5209bc2ec277e334cbaa51a6f1573140
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-5b2faf037ad8db54a8043d0c8091dcc0
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-5b2faf037ad8db54a8043d0c8091dcc0
-    projectPath: Temp\UnityTempFile-5b2faf037ad8db54a8043d0c8091dcc0
+  - path: Temp\UnityTempFile-5c76c90363ee5464f8e887cba5dfdfbc
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-5c76c90363ee5464f8e887cba5dfdfbc
+    projectPath: Temp\UnityTempFile-5c76c90363ee5464f8e887cba5dfdfbc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-60b3a4af374d4544483166929e41efa1
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-60b3a4af374d4544483166929e41efa1
-    projectPath: Temp\UnityTempFile-60b3a4af374d4544483166929e41efa1
+  - path: Temp\UnityTempFile-759ad0fabadd2a445bd00e3058dc72ff
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-759ad0fabadd2a445bd00e3058dc72ff
+    projectPath: Temp\UnityTempFile-759ad0fabadd2a445bd00e3058dc72ff
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-723e00ff74677e247a0ff47e0fd18198
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-723e00ff74677e247a0ff47e0fd18198
-    projectPath: Temp\UnityTempFile-723e00ff74677e247a0ff47e0fd18198
+  - path: Temp\UnityTempFile-767fb69e34f30134486c36e7540f1cbe
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-767fb69e34f30134486c36e7540f1cbe
+    projectPath: Temp\UnityTempFile-767fb69e34f30134486c36e7540f1cbe
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-797a82f95afd58446bfadcf08c6909e0
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-797a82f95afd58446bfadcf08c6909e0
-    projectPath: Temp\UnityTempFile-797a82f95afd58446bfadcf08c6909e0
+  - path: Temp\UnityTempFile-773cc0a29ce83ac45b9814ff4bac0e8e
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-773cc0a29ce83ac45b9814ff4bac0e8e
+    projectPath: Temp\UnityTempFile-773cc0a29ce83ac45b9814ff4bac0e8e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-8779757574f73f1498f145aaa36ed9aa
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-8779757574f73f1498f145aaa36ed9aa
-    projectPath: Temp\UnityTempFile-8779757574f73f1498f145aaa36ed9aa
+  - path: Temp\UnityTempFile-87744d1ca33e9474382c65f4531111a9
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-87744d1ca33e9474382c65f4531111a9
+    projectPath: Temp\UnityTempFile-87744d1ca33e9474382c65f4531111a9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-9084c937bd2b338418912e7fde963a8b
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-9084c937bd2b338418912e7fde963a8b
-    projectPath: Temp\UnityTempFile-9084c937bd2b338418912e7fde963a8b
+  - path: Temp\UnityTempFile-8a0697bd713336f4dafc44cb6b0bcde1
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-8a0697bd713336f4dafc44cb6b0bcde1
+    projectPath: Temp\UnityTempFile-8a0697bd713336f4dafc44cb6b0bcde1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-918b40ca846cbfb4a8e6fa04d115747a
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-918b40ca846cbfb4a8e6fa04d115747a
-    projectPath: Temp\UnityTempFile-918b40ca846cbfb4a8e6fa04d115747a
+  - path: Temp\UnityTempFile-8d9a2e75805e5fc43a00279ed81a2314
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-8d9a2e75805e5fc43a00279ed81a2314
+    projectPath: Temp\UnityTempFile-8d9a2e75805e5fc43a00279ed81a2314
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-9cb6b2b32b08dcd43a953af02209c060
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-9cb6b2b32b08dcd43a953af02209c060
-    projectPath: Temp\UnityTempFile-9cb6b2b32b08dcd43a953af02209c060
+  - path: Temp\UnityTempFile-8de30fdd63e394e4da035eee18ec1215
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-8de30fdd63e394e4da035eee18ec1215
+    projectPath: Temp\UnityTempFile-8de30fdd63e394e4da035eee18ec1215
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-aa5b23527e58500429ab1b7048f0ef60
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-aa5b23527e58500429ab1b7048f0ef60
-    projectPath: Temp\UnityTempFile-aa5b23527e58500429ab1b7048f0ef60
+  - path: Temp\UnityTempFile-8ee3b3a6e5e81b5498e695566a99eba8
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-8ee3b3a6e5e81b5498e695566a99eba8
+    projectPath: Temp\UnityTempFile-8ee3b3a6e5e81b5498e695566a99eba8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-b2949f15ee6b1864480c6e9c82eec847
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-b2949f15ee6b1864480c6e9c82eec847
-    projectPath: Temp\UnityTempFile-b2949f15ee6b1864480c6e9c82eec847
+  - path: Temp\UnityTempFile-946578bba27051945a4c90c43b046c9b
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-946578bba27051945a4c90c43b046c9b
+    projectPath: Temp\UnityTempFile-946578bba27051945a4c90c43b046c9b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-b3449dcf563d16b468077ce44cedfa7a
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-b3449dcf563d16b468077ce44cedfa7a
-    projectPath: Temp\UnityTempFile-b3449dcf563d16b468077ce44cedfa7a
+  - path: Temp\UnityTempFile-9dd40f5b86bc4944fb7439e9d5bffaef
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-9dd40f5b86bc4944fb7439e9d5bffaef
+    projectPath: Temp\UnityTempFile-9dd40f5b86bc4944fb7439e9d5bffaef
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-b4f317161d91ed74bb12408c83a4ca73
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-b4f317161d91ed74bb12408c83a4ca73
-    projectPath: Temp\UnityTempFile-b4f317161d91ed74bb12408c83a4ca73
+  - path: Temp\UnityTempFile-a2c4bb093f0067c4d8b45ec2ccc908dc
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-a2c4bb093f0067c4d8b45ec2ccc908dc
+    projectPath: Temp\UnityTempFile-a2c4bb093f0067c4d8b45ec2ccc908dc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-b5badf18ee800d4409de013f08e270be
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-b5badf18ee800d4409de013f08e270be
-    projectPath: Temp\UnityTempFile-b5badf18ee800d4409de013f08e270be
+  - path: Temp\UnityTempFile-b27906d205fb0774e86c59bb182a2695
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-b27906d205fb0774e86c59bb182a2695
+    projectPath: Temp\UnityTempFile-b27906d205fb0774e86c59bb182a2695
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-b6523c470bde2204780f225b952b03bd
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-b6523c470bde2204780f225b952b03bd
-    projectPath: Temp\UnityTempFile-b6523c470bde2204780f225b952b03bd
+  - path: Temp\UnityTempFile-b34e4377a17e853429ff5c15278e3726
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-b34e4377a17e853429ff5c15278e3726
+    projectPath: Temp\UnityTempFile-b34e4377a17e853429ff5c15278e3726
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-bd182893094616e4484f4be9a57ed0c7
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-bd182893094616e4484f4be9a57ed0c7
-    projectPath: Temp\UnityTempFile-bd182893094616e4484f4be9a57ed0c7
+  - path: Temp\UnityTempFile-b3ae9fd7514bed547bfaeda32b6acbb0
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-b3ae9fd7514bed547bfaeda32b6acbb0
+    projectPath: Temp\UnityTempFile-b3ae9fd7514bed547bfaeda32b6acbb0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-c038d75068327834ea200c4b4cec8c31
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-c038d75068327834ea200c4b4cec8c31
-    projectPath: Temp\UnityTempFile-c038d75068327834ea200c4b4cec8c31
+  - path: Temp\UnityTempFile-ba22685495c2bf94d829ad1f3088fd3b
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-ba22685495c2bf94d829ad1f3088fd3b
+    projectPath: Temp\UnityTempFile-ba22685495c2bf94d829ad1f3088fd3b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-c55c20467f4b8394cac4345a02172d8b
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-c55c20467f4b8394cac4345a02172d8b
-    projectPath: Temp\UnityTempFile-c55c20467f4b8394cac4345a02172d8b
+  - path: Temp\UnityTempFile-bcd45f8aaeda94e4a8e817bd6426d8c7
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-bcd45f8aaeda94e4a8e817bd6426d8c7
+    projectPath: Temp\UnityTempFile-bcd45f8aaeda94e4a8e817bd6426d8c7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-cad9909e9b8ce284884dda556f1bb728
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-cad9909e9b8ce284884dda556f1bb728
-    projectPath: Temp\UnityTempFile-cad9909e9b8ce284884dda556f1bb728
+  - path: Temp\UnityTempFile-bf59f1502cf017c4eb45ec9e274861a8
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-bf59f1502cf017c4eb45ec9e274861a8
+    projectPath: Temp\UnityTempFile-bf59f1502cf017c4eb45ec9e274861a8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-db64f8c4dc1ed6747b501e4f30a94273
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-db64f8c4dc1ed6747b501e4f30a94273
-    projectPath: Temp\UnityTempFile-db64f8c4dc1ed6747b501e4f30a94273
+  - path: Temp\UnityTempFile-c1bd96553b7901e4eb3676c125e0fe55
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-c1bd96553b7901e4eb3676c125e0fe55
+    projectPath: Temp\UnityTempFile-c1bd96553b7901e4eb3676c125e0fe55
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-f43af42e5a6f0f341876a588d880f4ce
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-f43af42e5a6f0f341876a588d880f4ce
-    projectPath: Temp\UnityTempFile-f43af42e5a6f0f341876a588d880f4ce
+  - path: Temp\UnityTempFile-cee145422f0714e48801d731eb1a13f1
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-cee145422f0714e48801d731eb1a13f1
+    projectPath: Temp\UnityTempFile-cee145422f0714e48801d731eb1a13f1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-f6ffbc5a2e8d8ab4a80b856b8a1d1faa
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-f6ffbc5a2e8d8ab4a80b856b8a1d1faa
-    projectPath: Temp\UnityTempFile-f6ffbc5a2e8d8ab4a80b856b8a1d1faa
+  - path: Temp\UnityTempFile-f0d4a35433795b64c945c6754d91420f
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-f0d4a35433795b64c945c6754d91420f
+    projectPath: Temp\UnityTempFile-f0d4a35433795b64c945c6754d91420f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-fcb5a225e023c6a4596904ca756fb8c6
-    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-fcb5a225e023c6a4596904ca756fb8c6
-    projectPath: Temp\UnityTempFile-fcb5a225e023c6a4596904ca756fb8c6
+  - path: Temp\UnityTempFile-fe1b93d6bacb2ce4fb6d30a5948ff294
+    fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Temp\UnityTempFile-fe1b93d6bacb2ce4fb6d30a5948ff294
+    projectPath: Temp\UnityTempFile-fe1b93d6bacb2ce4fb6d30a5948ff294
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
