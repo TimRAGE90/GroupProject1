@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-02-04T18:11:44.652-05:00
-  initializedAtString: 2021-02-04T18:05:06.482-05:00
+  lastUpdatedAtString: 2021-02-05T10:17:36.228-05:00
+  initializedAtString: 2021-02-04T18:36:15.193-05:00
   currentGitRemote:
     name: origin
     url: https://github.com/TimRAGE90/GroupProject1.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: main
-    tracking: origin/main
+    name: parallax
+    tracking: 
   currentConfigBranch:
-    name: main
+    name: parallax
     remote:
-      name: origin
-      url: https://github.com/TimRAGE90/GroupProject1.git
-    trackingBranch: main
+      name: 
+      url: 
+    trackingBranch: 
   currentConfigRemote:
     name: origin
     url: https://github.com/TimRAGE90/GroupProject1.git

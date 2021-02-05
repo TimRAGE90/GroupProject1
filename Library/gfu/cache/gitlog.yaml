@@ -13,9 +13,525 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-02-04T18:11:50.920-05:00
-  initializedAtString: 2021-02-04T18:05:14.051-05:00
+  lastUpdatedAtString: 2021-02-05T10:10:27.191-05:00
+  initializedAtString: 2021-02-04T18:54:23.277-05:00
   log:
+  - commitID: bfefbc5a6d3278054cd18315619bcdc91417aa67
+    mergeA: 
+    mergeB: 
+    authorName: csbabcock
+    authorEmail: 52185272+csbabcock@users.noreply.github.com
+    commitEmail: 52185272+csbabcock@users.noreply.github.com
+    commitName: csbabcock
+    summary: UI Changes
+    description: 
+    timeString: 2021-02-04T18:27:29.000-05:00
+    commitTimeString: 2021-02-04T18:27:29.000-05:00
+    changes:
+    - path: Assets\Animations\UI.meta
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Animations\UI.meta
+      projectPath: Assets\Animations\UI.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\UI\IntroCanvas.controller
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Animations\UI\IntroCanvas.controller
+      projectPath: Assets\Animations\UI\IntroCanvas.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\UI\IntroCanvas.controller.meta
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Animations\UI\IntroCanvas.controller.meta
+      projectPath: Assets\Animations\UI\IntroCanvas.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\UI\IntroPanel.anim
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Animations\UI\IntroPanel.anim
+      projectPath: Assets\Animations\UI\IntroPanel.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\UI\IntroPanel.anim.meta
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Animations\UI\IntroPanel.anim.meta
+      projectPath: Assets\Animations\UI\IntroPanel.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\ExitConfirmPanel.prefab
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Prefabs\ExitConfirmPanel.prefab
+      projectPath: Assets\Prefabs\ExitConfirmPanel.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\ExitConfirmPanel.prefab.meta
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Prefabs\ExitConfirmPanel.prefab.meta
+      projectPath: Assets\Prefabs\ExitConfirmPanel.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\IntroCanvas.prefab
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Prefabs\IntroCanvas.prefab
+      projectPath: Assets\Prefabs\IntroCanvas.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\IntroCanvas.prefab.meta
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Prefabs\IntroCanvas.prefab.meta
+      projectPath: Assets\Prefabs\IntroCanvas.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\PauseCanvas.prefab
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Prefabs\PauseCanvas.prefab
+      projectPath: Assets\Prefabs\PauseCanvas.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\BowserStage.unity
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Scenes\BowserStage.unity
+      projectPath: Assets\Scenes\BowserStage.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\Level1-1.unity
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Scenes\Level1-1.unity
+      projectPath: Assets\Scenes\Level1-1.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\MainMenu.unity
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Scenes\MainMenu.unity
+      projectPath: Assets\Scenes\MainMenu.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\IntroCard.cs
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Scripts\IntroCard.cs
+      projectPath: Assets\Scripts\IntroCard.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\IntroCard.cs.meta
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Scripts\IntroCard.cs.meta
+      projectPath: Assets\Scripts\IntroCard.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PauseScript.cs
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Assets\Scripts\PauseScript.cs
+      projectPath: Assets\Scripts\PauseScript.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\APIUpdater\project-dependencies.graph
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\APIUpdater\project-dependencies.graph
+      projectPath: Library\APIUpdater\project-dependencies.graph
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\11\11375ae4d7d2861e564d69a04eb0dbae
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\Artifacts\11\11375ae4d7d2861e564d69a04eb0dbae
+      projectPath: Library\Artifacts\11\11375ae4d7d2861e564d69a04eb0dbae
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\EditorInstance.json
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PackageManager\ProjectCache.bin
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\PackageManager\ProjectCache.bin
+      projectPath: Library\PackageManager\ProjectCache.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SceneVisibilityState.asset
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+      projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
+      projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+      projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
+      projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Mathematics.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Mathematics.dll
+      projectPath: Library\ScriptAssemblies\Unity.Mathematics.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Mathematics.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Mathematics.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Mathematics.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.Timeline.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ShaderCache\EditorEncounteredVariants
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\ShaderCache\EditorEncounteredVariants
+      projectPath: Library\ShaderCache\EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\MainStageHierarchy\a8\a840eb12ce55cc111b37c7213d372f15.json
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\StateCache\MainStageHierarchy\a8\a840eb12ce55cc111b37c7213d372f15.json
+      projectPath: Library\StateCache\MainStageHierarchy\a8\a840eb12ce55cc111b37c7213d372f15.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\PrefabStageHierarchy\f1\f113f703115d5d4c1a25697c04f21ae0.json
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\StateCache\PrefabStageHierarchy\f1\f113f703115d5d4c1a25697c04f21ae0.json
+      projectPath: Library\StateCache\PrefabStageHierarchy\f1\f113f703115d5d4c1a25697c04f21ae0.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\0a\0a270f84893cdf4e3069c8b3da247547.json
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\StateCache\SceneView\0a\0a270f84893cdf4e3069c8b3da247547.json
+      projectPath: Library\StateCache\SceneView\0a\0a270f84893cdf4e3069c8b3da247547.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\ac\ac3501949bf905874d579999fb8a7b4d.json
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\StateCache\SceneView\ac\ac3501949bf905874d579999fb8a7b4d.json
+      projectPath: Library\StateCache\SceneView\ac\ac3501949bf905874d579999fb8a7b4d.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: C:\Users\Christian\Desktop\DIG 4715\Team Project 1\GroupProject1\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: e2e5a33cf95077d41840b804c855b22534201a67
     mergeA: c0d61512b4b191a37217240efacb21a2c6eb366c
     mergeB: 9577298acfc8d61daceb8d28578492d250c7abe8
